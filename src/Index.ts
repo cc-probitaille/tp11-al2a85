@@ -1,6 +1,6 @@
 // src/index.ts
 import { config } from 'dotenv';
-import { createInstance } from './dynamicClassLoader';
+import { createInstance } from './DynamicClassLoader';
 
 config();
 
